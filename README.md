@@ -2,5 +2,5 @@
 Based on java
 
 File config.properties is under resources folder. It contains:
-botToken = botToken from tg fathers bot
-botUsername = botUsername
+<br>botToken = botToken from tg fathers bot
+<br>botUsername = botUsername
